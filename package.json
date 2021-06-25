@@ -1,15 +1,17 @@
 {
-  "name": "pose",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "10.2.3",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
-  }
+    "name": "pose",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "framer-motion": "^4.1.17",
+        "next": "10.2.3",
+        "node-sass": "^4.14.1",
+        "react": "17.0.2",
+        "react-dom": "17.0.2"
+    }
 }
